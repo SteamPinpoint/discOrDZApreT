@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# SteamPinpoint/discOrDZApreT c1e65afb8df9
